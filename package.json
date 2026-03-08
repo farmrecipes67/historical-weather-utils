@@ -1,0 +1,34 @@
+{
+  "name": "historical-weather-utils",
+  "version": "1.0.0",
+  "description": "Utilities for fetching and analyzing historical weather data using the Open-Meteo Archive API. No API key required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "weather",
+    "historical-weather",
+    "climate",
+    "temperature",
+    "precipitation",
+    "open-meteo",
+    "weather-api",
+    "climate-data",
+    "weather-history",
+    "meteorology"
+  ],
+  "author": "Craig Warner <craigwarner@alumni.stanford.edu>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/historical-weather-utils"
+  },
+  "homepage": "https://github.com/farmrecipes67/historical-weather-utils#readme",
+  "bugs": {
+    "url": "https://github.com/farmrecipes67/historical-weather-utils/issues"
+  }
+}
